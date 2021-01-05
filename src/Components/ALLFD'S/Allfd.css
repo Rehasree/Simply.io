@@ -1,0 +1,21 @@
+@media only screen and (min-width: 1301px) and (max-width: 7000px) {
+  #mobileFilters {
+    display: none;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 1300px) {
+  #filters {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 901px) and (max-width: 7000px) {
+  #col9 {
+    margin-left: 15px;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 900px) {
+  #sort {
+    display: none;
+  }
+}
